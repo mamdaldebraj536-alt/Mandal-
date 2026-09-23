@@ -20,4 +20,5 @@ rad.json
 *.bclicense
 *.flf
 #Test results file
-TestResults.xml
+TestResults.xmlgit remote add upstream https://github.com/react/react.git
+git remote -v
